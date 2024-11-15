@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-13T23:02:38 EST" name="Default suite" finished-at="2024-11-13T23:02:45 EST" duration-ms="7322">
+  <suite started-at="2024-11-14T20:56:04 EST" name="Default suite" finished-at="2024-11-14T20:56:10 EST" duration-ms="5764">
     <groups>
     </groups>
-    <test started-at="2024-11-13T23:02:38 EST" name="Default test" finished-at="2024-11-13T23:02:45 EST" duration-ms="7322">
+    <test started-at="2024-11-14T20:56:04 EST" name="Default test" finished-at="2024-11-14T20:56:10 EST" duration-ms="5764">
       <class name="alluretestcase.Test_001">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:alluretestcase.Test_001@169bb4dd]" started-at="2024-11-13T23:02:38 EST" name="beforeTest" finished-at="2024-11-13T23:02:38 EST" duration-ms="20" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:alluretestcase.Test_001@169bb4dd]" started-at="2024-11-14T20:56:04 EST" name="beforeTest" finished-at="2024-11-14T20:56:04 EST" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="test001()[pri:0, instance:alluretestcase.Test_001@169bb4dd]" started-at="2024-11-13T23:02:38 EST" name="test001" finished-at="2024-11-13T23:02:45 EST" duration-ms="7035" status="PASS">
+        <test-method signature="test001()[pri:0, instance:alluretestcase.Test_001@169bb4dd]" started-at="2024-11-14T20:56:04 EST" name="test001" finished-at="2024-11-14T20:56:10 EST" duration-ms="5513" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test001 -->
